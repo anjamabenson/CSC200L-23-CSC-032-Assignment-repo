@@ -1,8 +1,8 @@
 # Student Registration System
 
 ## Student Info
-- *Name:* Wonah Godwin owogoga 
-- *Matric Number:* 23\CSC\257
+- *Name:* Anjama Benson
+- *Matric Number:* 23\CSC\032
 - *Course Code:* CSC 282 
 
 ## Assignment Title
@@ -49,3 +49,4 @@ This project is a simple PHP and MySQL web application for registering students.
 4. Register students using the form.
 5. View registered students via the "View Registered Students" link.
 6. Use the delete button to remove a record if needed.
+
